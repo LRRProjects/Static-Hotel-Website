@@ -1,5 +1,6 @@
 # Static-Hotel-Website
 Created a sample hotel website, for the purpose of practicing HTML5 and CSS3.
+
 Home page:
 ![image](https://user-images.githubusercontent.com/102123401/164341759-634be338-16b3-4eb2-831b-25a5336a73fd.png)
 
